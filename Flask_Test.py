@@ -6,7 +6,7 @@ app = Flask(__name__)
 def hello_world():
     return '''
     <html>
-        <img src="/images/Capture.PNG" alt="Test Image" />
+    <img src="/images/Capture.PNG" alt="Test Image" />
     </html>
     '''
 
